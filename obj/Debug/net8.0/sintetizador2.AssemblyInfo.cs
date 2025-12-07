@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sintetizador2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c232359c79e1b7df254e08c70f4eb0a7c2b53af8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6ce3dcbcf54f55f20dbf620df3bbe283745369b")]
 [assembly: System.Reflection.AssemblyProductAttribute("sintetizador2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sintetizador2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
